@@ -2,7 +2,18 @@
 
 > **Connecting 50,000+ Gators through innovative event discovery and community building**
 
-## 🚀 **[Website Link](https://ufeventportal.weebly.com/about.html)**
+## 🚀 **Website Link**
+
+### 🌐 **Live Portal**
+**[University of Florida Events Portal](https://ufeventportal.weebly.com/about.html)**
+
+## 🛠️ **Tech Stack**
+
+- 🌐 **Weebly** - Crafting beautiful website experiences
+- 🎨 **Canva** - Creating stunning posters and storyboards
+- 📐 **Balsamiq** - Wireframing the perfect user journey
+- 🧠 **Miro** - Virtualizing data and building affinity diagrams
+- ⚡ **Netlify** - Bringing our vision to life with seamless deployment
 
 
 ## 🎯 **Mission & Vision**
