@@ -2,9 +2,7 @@
 
 > **Connecting 50,000+ Gators through innovative event discovery and community building**
 
-## 🚀 **Project Overview**
-
-**UFEP** is a cutting-edge web platform that revolutionizes campus life at the University of Florida by seamlessly connecting students with events, activities, and community experiences. Built with modern web technologies, this platform serves as the central hub for event discovery, promotion, and engagement across campus.
+## 🚀 **[Website Link](https://ufeventportal.weebly.com/about.html)**
 
 
 ## 🎯 **Mission & Vision**
