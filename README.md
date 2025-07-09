@@ -5,7 +5,7 @@
 ## 🚀 **Website Link**
 
 ### 🌐 **Live Portal**
-**[University of Florida Events Portal](https://ufeventportal.weebly.com/about.html)**
+**[University of Florida Events Portal](https://ufeventportal.weebly.com)**
 
 ## 🛠️ **Tech Stack**
 
