@@ -2,10 +2,7 @@
 
 > **Connecting 50,000+ Gators through innovative event discovery and community building**
 
-## 🚀 **Website Link**
-
-### 🌐 **Live Portal**
-**[University of Florida Events Portal](https://ufeventportal.weebly.com)**
+## 🌐 **Live Portal**   - **[University of Florida Events Portal](https://ufeventportal.weebly.com)**
 
 ## 🛠️ **Tech Stack**
 
